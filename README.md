@@ -2,4 +2,4 @@
 Three.jsをお勉強してます。GLSLたくさん書きたいのでございます。UVスクロールぐらいしたい。
 
 # Learning Three.js
-I'm learning Three.js. I want to write lots of GLSL. Do I have the skill to do UV scrolling...?
+I'm learning Three.js. I want to write lots of GLSL. Do I have the skill to scroll UVs...?
