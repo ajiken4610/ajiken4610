@@ -1,2 +1,5 @@
-# いろいろ作ってる
-WebGLのライブラリ、AMSの2つが今開発してるやつですかね。AjiVocaは時間があったら作り直すかも。
+# Three.jsのお勉強中
+Three.jsをお勉強してます。GLSLたくさん書きたいのでございます。UVスクロールぐらいしたい。
+
+# Learning Three.js
+I'm learning Three.js. I want to write lots of GLSL. Do I have the skill to do UV scrolling...?
