@@ -1,5 +1,5 @@
-# Three.jsのお勉強中
-Three.jsをお勉強してます。GLSLたくさん書きたいのでございます。UVスクロールぐらいしたい。
+# YukiEngine作成中
+YukiEngineというレンダーエンジンを作成しています。大規模なシーンを描画するための機能を提供するエンジンです。
 
-# Learning Three.js
-I'm learning Three.js. I want to write lots of GLSLs. Do I have the skill to scroll UVs...?
+# Developing YukiEngine
+I'm developing render engine called YukiEngine. It provides utilities which can render dynamic huge scene.
